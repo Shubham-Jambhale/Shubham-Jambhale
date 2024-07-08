@@ -1,4 +1,4 @@
-![logo](https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg)
+
 <h1 align="center">Hi 👋, I'm Shubham Jambhale</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-jambhale&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-jambhale" /> </p>
 
